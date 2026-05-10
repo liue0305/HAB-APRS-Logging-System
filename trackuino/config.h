@@ -39,7 +39,7 @@
 // - Cars:       9
 // - Home:       0
 // - IGate:      5
-#define S_CALLSIGN      "KFEFRG"
+#define S_CALLSIGN      "NOCALL"
 #define S_CALLSIGN_ID   10
 
 // Destination callsign: APRS (with SSID=0) is usually okay.
